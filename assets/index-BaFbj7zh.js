@@ -11,8 +11,8 @@
         <path d="M38 38l3-10 5 5z" fill="var(--mint-ink)"></path>
       </svg>
       <div style="min-width:0">
-        <h1 style="font-size:var(--fs-3xl); letter-spacing:.5px">مِسار</h1>
-        <p style="font-size:var(--fs-md); font-weight:700">كل حرفٍ… مِسار</p>
+        <h1 style="font-size:var(--fs-3xl); letter-spacing:.5px">مَسار</h1>
+        <p style="font-size:var(--fs-md); font-weight:700">كل حرفٍ… مَسار</p>
       </div>
       <div class="spacer"></div>
       <span class="pill"><b id="wPts">٠</b> نقطة</span>
@@ -994,8 +994,8 @@
       <path d="M11 34C19 34 19 17 27 17c7 0 7 13 14 13" fill="none" stroke="var(--peach-ink)" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 7"></path>
       <path d="M38 38l3-10 5 5z" fill="var(--mint-ink)"></path>
     </svg>
-    <h1 class="wl-title">مِسار</h1>
-    <p class="wl-tag">كل حرفٍ… مِسار</p>
+    <h1 class="wl-title">مَسار</h1>
+    <p class="wl-tag">كل حرفٍ… مَسار</p>
   </div>
 
   <div class="card wl-card">
@@ -1035,4 +1035,4 @@
   <button class="btn primary wide" id="wlGo" type="button" disabled>هيا نبدأ</button>
 </section>
 `,O=[w,k,x,z,M,B,A,C,T,S,j,G,P,L,E,V,W,_,F,N,R,D,H];function q(){document.body.insertAdjacentHTML("beforeend",m);const r=document.createElement("div");r.id="app",r.innerHTML=O.join(`
-`),document.body.appendChild(r)}document.documentElement.setAttribute("lang","ar");document.documentElement.setAttribute("dir","rtl");q();y(()=>import("./boot-Kc0GmRcA.js"),[],import.meta.url);
+`),document.body.appendChild(r)}document.documentElement.setAttribute("lang","ar");document.documentElement.setAttribute("dir","rtl");q();y(()=>import("./boot-Cte0zbhr.js"),[],import.meta.url);
