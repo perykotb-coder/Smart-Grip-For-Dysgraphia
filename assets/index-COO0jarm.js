@@ -1035,4 +1035,4 @@
   <button class="btn primary wide" id="wlGo" type="button" disabled>هيا نبدأ</button>
 </section>
 `,O=[w,k,x,z,M,B,A,C,T,S,j,G,P,L,E,V,W,_,F,N,R,D,H];function q(){document.body.insertAdjacentHTML("beforeend",m);const r=document.createElement("div");r.id="app",r.innerHTML=O.join(`
-`),document.body.appendChild(r)}document.documentElement.setAttribute("lang","ar");document.documentElement.setAttribute("dir","rtl");q();y(()=>import("./boot-Cte0zbhr.js"),[],import.meta.url);
+`),document.body.appendChild(r)}document.documentElement.setAttribute("lang","ar");document.documentElement.setAttribute("dir","rtl");q();y(()=>import("./boot-Ci7NsqSY.js"),[],import.meta.url);
